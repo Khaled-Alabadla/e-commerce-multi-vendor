@@ -1,6 +1,6 @@
-# E-Commerce Application
+# E-Commerce Website
 
-This is a powerful and scalable **e-commerce application** built using **Laravel** and **MySQL**. The app provides a seamless shopping experience for users while offering comprehensive management tools for administrators and vendors.
+This is a powerful and scalable **e-commerce website** built using **Laravel** and **MySQL**. The app provides a seamless shopping experience for users while offering comprehensive management tools for administrators and vendors.
 
 ## Features
 
